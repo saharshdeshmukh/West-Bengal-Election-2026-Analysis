@@ -85,7 +85,7 @@ The project involved:
 
 ## Dashboard Preview
 
-(Add dashboard screenshots here)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ---
 
