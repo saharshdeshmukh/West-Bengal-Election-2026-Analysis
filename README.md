@@ -8,6 +8,20 @@ The dashboard transforms raw constituency-level election data into actionable in
 
 ---
 
+## Dashboard Preview
+
+<img src="page1_overview.png" width="900">
+
+### Regional Analysis
+
+<img src="page2_regional_analysis.png" width="900">
+
+### Election Insights & Key Findings
+
+<img src="page3_key_findings.png" width="900">
+
+---
+
 ## Objectives
 
 - Analyze party-wise seat performance across West Bengal.
@@ -24,6 +38,19 @@ The dashboard transforms raw constituency-level election data into actionable in
 - Microsoft Excel
 - DAX (Data Analysis Expressions)
 - Election Commission of India (ECI) Election Data
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Power BI Dashboard Development
+- DAX Calculations
+- Political Data Analysis
+- Data Visualization
+- Insight Generation
+- Election Analytics
 
 ---
 
@@ -70,10 +97,6 @@ Provides a high-level summary of election outcomes.
 - Top 10 Largest Victory Margins
 - Top 10 Closest Electoral Contests
 
-### Screenshot
-
-![Election Overview](page1_overview.png)
-
 ---
 
 ## Page 2 – Regional Analysis
@@ -87,10 +110,6 @@ Examines electoral outcomes across major regions of West Bengal.
 - Average Victory Margin by Region
 - Regional Filters and Slicers
 - Region-specific Electoral Insights
-
-### Screenshot
-
-![Regional Analysis](page2_regional_analysis.png)
 
 ---
 
@@ -111,8 +130,6 @@ Executive-level summary highlighting major election trends.
 - Strategic Election Findings
 
 ### Screenshot
-
-![Key Findings](page3_key_findings.png)
 
 ---
 
@@ -137,6 +154,18 @@ Constituencies were classified based on victory margins:
 - **93 constituencies (31.7%)** were classified as competitive seats.
 - **179 constituencies (61.1%)** were classified as safe seats.
 - Competitive and battleground seats together accounted for **38.9%** of all analyzed constituencies.
+
+---
+
+## Analytical Outcomes
+
+This dashboard enables:
+
+- Identification of political strongholds
+- Detection of battleground constituencies
+- Regional electoral performance analysis
+- Victory margin assessment
+- Constituency competitiveness classification
 
 ---
 
