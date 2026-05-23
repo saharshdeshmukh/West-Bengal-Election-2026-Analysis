@@ -72,7 +72,7 @@ Provides a high-level summary of election outcomes.
 
 ### Screenshot
 
-![Election Overview](images/page1_overview.png)
+![Election Overview](page1_overview.png)
 
 ---
 
@@ -90,7 +90,7 @@ Examines electoral outcomes across major regions of West Bengal.
 
 ### Screenshot
 
-![Regional Analysis](images/page2_regional_analysis.png)
+![Regional Analysis](page2_regional_analysis.png)
 
 ---
 
@@ -112,7 +112,7 @@ Executive-level summary highlighting major election trends.
 
 ### Screenshot
 
-![Key Findings](images/page3_key_findings.png)
+![Key Findings](page3_key_findings.png)
 
 ---
 
