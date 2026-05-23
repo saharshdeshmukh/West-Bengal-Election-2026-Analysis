@@ -181,5 +181,5 @@ Falta Assembly Constituency was excluded from the analysis due to the scheduled 
 
 Aspiring Data Analyst | Power BI | Excel | SQL | Political Analytics
 
-LinkedIn: ![View Profile](https://www.linkedin.com/in/saharsh-deshmukh-57ab09272/)
-GitHub: ![GitHub Profile](https://github.com/saharshdeshmukh)
+LinkedIn: [View Profile](https://www.linkedin.com/in/saharsh-deshmukh-57ab09272/)
+GitHub: [GitHub Profile](https://github.com/saharshdeshmukh)
